@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oleh Voitovych
 - 👀 I’m interested in Python, AI
-- 🌱 I’m currently learning Python Web stack(Django, frast api, DB`s)
+- 🌱 I’m currently learning Python Web stack(Django, frast api, Data bases and etc.)
 - 💞️ I’m looking to collaborate on any python project
 - 📫 You can contact me by email oleg.voytovych04@gmail.com
 
